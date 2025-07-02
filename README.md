@@ -63,4 +63,5 @@ Kaggle Dataset:
 
 **Harsh Burman**  
 📍 Machine Learning Intern @ Prodigy Infotech  
-🔗 [LinkedIn](https://www.linkedin.com/) *(add your real link)*  
+🔗 [LinkedIn](https://www.linkedin.com/) *https://www.linkedin.com/in/harsh-burman-6961a632a/*
+
